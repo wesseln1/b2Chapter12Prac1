@@ -1,0 +1,23 @@
+.articleDiv {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+
+article {
+    width: 50%;
+    border: solid;
+    margin: 10px;
+}
+
+#blue {
+    border-color: blue;
+    height: 30px;
+    font-size: 25px;
+}
+
+#red {
+    border-color: red;
+    height: 30px;
+    font-size: 25px;
+}
